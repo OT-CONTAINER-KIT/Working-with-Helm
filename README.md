@@ -32,7 +32,7 @@
 # Architecture
 
 <p align="center">
-  <img width="460" height="300" src="Images/helm_2.png">
+  <img width="460" height="300" src="Images/helm 2.png">
 </p>
 
 ## Applications
